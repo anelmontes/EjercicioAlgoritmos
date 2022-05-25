@@ -1,0 +1,18 @@
+num1=parseInt(prompt("Ingrese un numero menor que 100",""));
+num2=parseInt(prompt("Ingrese un numero menor que 100",""));
+let numayor = confirm("ingresa un número menor que 100");
+
+// if(num1 > = num2){
+//   alert("Número 1 es mayor")
+//   }  else if(confirm("")){
+//       alert("muy bien!!")
+// }else if (confirm("un tamalito")){
+//  alert("okk!!")
+// }else{
+//     alert("Deberias de probarlos!!")
+var num1
+var num2
+    if(num1> = num2){
+        consol log=""
+    }
+    
